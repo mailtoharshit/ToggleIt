@@ -12,9 +12,11 @@ Chrome Extension to toggle development mode on/off
 
 # <a name="how-to"></a>How to use this chrome extension
 Follow these easy steps :
-1. Install extension from here 
+1. Install extension from here  --- > 
+<div style="align : center" ></div>
+<button type="button" class="btn btn-success center">Add to Google Chrome</button>
+</div>
 
-Deploy this package in your org  --- > 
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
 
 2. Open this url  ->  (your-salesforce-instance)/apex/amchart (example : https://na17.salesforce.com/apex/amchart)
